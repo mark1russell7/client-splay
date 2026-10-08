@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [mark1russell7/client](https://github.com/mark1russell7/client/tree/main/packages/client-splay), with its full history. This repository is archived.
+
 # @mark1russell7/client-splay
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
